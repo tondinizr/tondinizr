@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Welinton Diniz, from Brazil (🇧🇷). I am currently unemployed, but in my spare time I help to [ONG Projeto Emanuel] (https://www.instagram.com/projetoemanuel1). I am in a serious relationship with JavaScript (💙), especially React and React Native!
+
+Would you like to meet me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welintondiniz)](https://www.linkedin.com/in/welintondiniz)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/WelintonDiniz)](https://www.facebook.com/WelintonDiniz)
+
 <!--
 **tondinizr/tondinizr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
