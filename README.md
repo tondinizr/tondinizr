@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Welinton Diniz, from Brazil (🇧🇷). I am currently unemployed, but in my spare time I help to [ONG Projeto Emanuel] (https://www.instagram.com/projetoemanuel1). I am in a serious relationship with JavaScript (💙), especially React and React Native!
+My name is Welinton Diniz, from Brazil (🇧🇷). I am currently unemployed, but in my spare time I help to [ONG Projeto Emanuel](https://www.instagram.com/projetoemanuel1). I am in a serious relationship with JavaScript (💙), especially React and React Native!
 
 Would you like to meet me?
 
